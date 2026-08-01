@@ -1,0 +1,58 @@
+{
+  "apps": [
+    {
+      "id": "cinemahq",
+      "name": "Cinema HQ",
+      "iconUrl": "icons/cinemahq.png",
+      "category": "Movies & TV",
+      "description": "The ultimate media app for Android — Movies, TV Shows, Live TV, Anime, Retro Games and more, wrapped in a sleek Material interface with Debrid & torrent service support.",
+      "gradient": 9,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/cinemahq_release.apk"
+    },
+    {
+      "id": "reezn",
+      "name": "Reezn TV",
+      "iconUrl": "icons/reezn.webp",
+      "category": "Movies & TV",
+      "description": "Reezn TV is a free and easy to use streaming app that lets you watch entertainment content from around the world without paying any subscription fees. The app offers a wide range of channels and content categories, including sports, live news, movies, TV shows, kids’ programs, and more.",
+      "gradient": 2,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/Reezn.apk"
+    },
+    {
+      "id": "fawsome",
+      "name": "Fawesome",
+      "iconUrl": "icons/fawsome.webp",
+      "category": "Movies & TV",
+      "description": "Fawesome is a free streaming application for Android that lets you watch movies and TV shows without a subscription or registration.",
+      "gradient": 4,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/com.future.moviesByFawesomeAndroidTV_8.6-78_minAPI21.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk"
+    },
+    {
+      "id": "phantommovies",
+      "name": "Phantom Movies",
+      "iconUrl": "icons/phantommovies.png",
+      "category": "Movies & TV",
+      "description": "PhantomMovies — Stream Movies, TV & Anime Free with No Ads.",
+      "gradient": 6,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/phantom-movies-v1.5.9.apk"
+    },
+    {
+      "id": "voltratv",
+      "name": "VoltraTV",
+      "iconUrl": "icons/voltratv.jpg",
+      "category": "Movies & TV",
+      "description": "VoltraTV is an excellent streaming app that brings all your entertainment world in one place. It allows you to enjoy a lot of entertainment content like blockbuster movies, anime, web series, TV shows and live sports.",
+      "gradient": 8,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/voltra.apk"
+    },
+    {
+      "id": "ak47sports",
+      "name": "AK47 Sports",
+      "iconUrl": "icons/ak47sports.png",
+      "category": "Sports",
+      "description": "Experience the best of STREAMING on your Android device. Access thousands of HD channels and sports events worldwide with the official AK47 Sports APK — the premium streaming solution.",
+      "gradient": 7,
+      "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/AK47Sports_v1.6_.7._Mod.apk"
+    }
+  ]
+}
