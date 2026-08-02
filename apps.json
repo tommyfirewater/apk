@@ -81,6 +81,16 @@
   "gradient": 3,
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/Sportzfy_v30.0_thesportzfytv.com.apk"
+},
+    {
+  "id": "sktech",
+  "name": "SK Tech",
+  "iconUrl": "SKTech.png",
+  "category": "Sports",
+  "gradient": 3,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/SK_TECH_v2.7.apk"
 }
+    
   ]
 }
