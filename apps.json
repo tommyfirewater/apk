@@ -90,6 +90,15 @@
   "gradient": 3,
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/SK_TECH_v2.7.apk"
+},
+    {
+  "id": "cineolus",
+  "name": "cinePlus",
+  "iconUrl": "cineplus.png",
+  "category": "Movies & TV",
+  "gradient": 8,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/cineplus1.0.4.apk"
 }
     
   ]
