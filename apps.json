@@ -54,5 +54,14 @@
       "gradient": 7,
       "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/1/AK47Sports_v1.6_.7._Mod.apk"
     }
+    {
+  "id": "sportzx",
+  "name": "Sportz X",
+  "iconUrl": "unnamed%20(1).webp",
+  "category": "Sports",
+  "gradient": 3,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/blob/main/SportzX_new_2.6v.apk"
+}
   ]
 }
