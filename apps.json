@@ -63,5 +63,15 @@
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/SportzX_new_2.6v.apk"
 }
+    ,
+    {
+  "id": "geesports",
+  "name": "Gee Sports",
+  "iconUrl": "geesports.webp",
+  "category": "Sports",
+  "gradient": 3,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/GeeSports_(V3.8).apk"
+}
   ]
 }
