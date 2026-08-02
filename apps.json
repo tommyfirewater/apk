@@ -72,6 +72,15 @@
   "gradient": 3,
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/GeeSports_(V3.8).apk"
+},
+    {
+  "id": "sportzfy",
+  "name": "Sportzfy",
+  "iconUrl": "sportzfy.jpg",
+  "category": "Sports",
+  "gradient": 3,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/Sportzfy_v30.0_thesportzfytv.com.apk"
 }
   ]
 }
