@@ -108,6 +108,15 @@
   "gradient": 8,
   "description": "Your app's description here.",
   "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/2/smarttube_stable.apk"
+},
+    {
+  "id": "smarttvtwitch",
+  "name": "SmartTv Twitch",
+  "iconUrl": "smarttvtwitch.png",
+  "category": "Ad Free Youtube and Twitch",
+  "gradient": 8,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/2/SmartTV_twitch_3_0_379.apk"
 }
     
   ]
