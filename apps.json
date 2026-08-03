@@ -99,6 +99,15 @@
   "gradient": 8,
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/cineplus1.0.4.apk"
+},
+    {
+  "id": "smarttube",
+  "name": "Smart Tube Ad Free",
+  "iconUrl": "cineplus.png",
+  "category": "Ad Free Youtube and Twitch",
+  "gradient": 8,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/2/smarttube_stable.apk"
 }
     
   ]
