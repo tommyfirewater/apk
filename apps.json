@@ -117,6 +117,24 @@
   "gradient": 8,
   "description": "Your app's description here.",
   "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/2/SmartTV_twitch_3_0_379.apk"
+},
+    {
+  "id": "ipvanish",
+  "name": "IP Vanish",
+  "iconUrl": "ipvanish.png",
+  "category": "Free VPN",
+  "gradient": 8,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/3/com.ixolit.ipvanish_4.1.19.0.305393-ipv-atv-158159_minAPI25.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.1.apk"
+},
+    {
+  "id": "expressvpn",
+  "name": "Express VPN",
+  "iconUrl": "expressvpn.png",
+  "category": "Free VPN",
+  "gradient": 8,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/4/ExpressVPN.v12.71.0.PREMIUM.apk"
 }
     
   ]
