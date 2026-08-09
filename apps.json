@@ -135,6 +135,15 @@
   "gradient": 9,
   "description": "Your app's description here.",
   "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/4/ExpressVPN.v12.71.0.PREMIUM.apk"
+},
+    {
+  "id": "playfysports",
+  "name": "PlayFY Sports",
+  "iconUrl": "images.jpg",
+  "category": "Sports",
+  "gradient": 9,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/PLAYFy_TV_1.6.apk"
 }
     
   ]
