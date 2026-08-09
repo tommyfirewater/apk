@@ -144,6 +144,15 @@
   "gradient": 9,
   "description": "Your app's description here.",
   "downloadUrl": "https://raw.githubusercontent.com/tommyfirewater/apk/main/PLAYFy_TV_1.6.apk"
+},
+    {
+  "id": "flixvision",
+  "name": "Flix Vision",
+  "iconUrl": "unnamed.webp",
+  "category": "Movies & TV",
+  "gradient": 9,
+  "description": "Your app's description here.",
+  "downloadUrl": "https://github.com/tommyfirewater/apk/releases/download/5/Flix-vision.v3.7.0.32-bit.apk"
 }
     
   ]
